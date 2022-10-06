@@ -34,7 +34,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-    cd fullstack-chat-application
+  cd fullstack-chat-application
 ```
 
 Install dependencies
