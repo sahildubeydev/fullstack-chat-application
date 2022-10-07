@@ -20,7 +20,7 @@ in Mongo DB Database.
 
 - **Server:** Node JS, Express JS
 
- -**Database:** Mongo DB
+ - **Database:** Mongo DB
 
 ## Requirements
 - Any working operating system.
