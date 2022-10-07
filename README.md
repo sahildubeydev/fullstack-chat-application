@@ -77,28 +77,28 @@ Start the client
 
 
 ## Screenshots
-Login Page
+- Login Page
 ![login page](screenshots/loginpage.png)
 
-Signup Page
+- Signup Page
 ![signup page](screenshots/signuppage.png)
 
-LoggedIn Page
+- LoggedIn Page
 ![loggedin page](screenshots/loggedinpage.png)
 
-One to One Chat 
+- One to One Chat 
 ![one to one chat](screenshots/onetoonechat.png)
 
-Group Chat
+- Group Chat
 ![group chat](screenshots/groupchat.png)
 
-Add/remove user, Leave group 
+- Add/remove user, Leave group 
 ![group chat](screenshots/add-remove-leave-group.png)
 
-Search User
+- Search User
 ![search user](screenshots/searchuser.png)
 
-User Profile
+- User Profile
 ![user profile](screenshots/userprofile.png)
 
 
