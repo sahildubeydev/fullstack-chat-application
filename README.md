@@ -1,12 +1,12 @@
 
 # Chat-App (In Progress)
 
-This is a mobile responsive web application project 
+- This is a mobile responsive web application project 
 made to help user to chat with there family, friends, relatives etc.
 
 ## Description
 
-This Chat-App is a Full Stack Chat Application. Uses Socket.io for 
+- This Chat-App is a Full Stack Chat Application. Uses Socket.io for 
 real time communication and stores user details in encrypted format 
 in Mongo DB Database.
 
@@ -16,11 +16,11 @@ in Mongo DB Database.
 
 ## Tech Stack
 
-**Client:** React JS
+- **Client:** React JS
 
-**Server:** Node JS, Express JS
+- **Server:** Node JS, Express JS
 
-**Database:** Mongo DB
+ -**Database:** Mongo DB
 
 ## Requirements
 - Any working operating system.
