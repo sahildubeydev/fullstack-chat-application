@@ -73,6 +73,7 @@ Start the client
 - Search user
 - Create group chat
 - Update group members and group name (only admins)
+- Typing Indicator
 - Logout
 
 
