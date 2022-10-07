@@ -22,6 +22,11 @@ in Mongo DB Database.
 
 **Database:** Mongo DB
 
+## Requirements
+- Any working operating system.
+- MongoDB account.
+- Any browser
+
 
 ## Run Locally
 
