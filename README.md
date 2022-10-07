@@ -60,12 +60,15 @@ Start the client
 
 
 
+
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Login/Signup
+- Guest User(for quick access)
+- Search user
+- Create group chat
+- Update group members and group name (only admins)
+- Logout
 
 
 ## Screenshots
@@ -92,6 +95,13 @@ Search User
 
 User Profile
 ![user profile](screenshots/userprofile.png)
+
+
+## More Functionalities
+
+This application still has many functionalities 
+that has not been implemented yet like uploading profile picture,
+status, adding phone number, hide chat, delete chat etc.
 
 
 ## Author
