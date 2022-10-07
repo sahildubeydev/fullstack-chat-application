@@ -104,7 +104,7 @@ User Profile
 
 ## More Functionalities
 
-This application still has many functionalities 
+- This application still has many functionalities 
 that has not been implemented yet like uploading profile picture,
 status, adding phone number, hide chat, delete chat etc.
 
