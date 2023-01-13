@@ -79,29 +79,28 @@ Start the client
 
 ## Screenshots
 - Login Page
-![login page](screenshots/loginpage.png)
+![login page](https://user-images.githubusercontent.com/48377225/212224602-41b1a27b-30ee-4827-a673-ef56100f9799.png)
 
 - Signup Page
-![signup page](screenshots/signuppage.png)
+![signup page](https://user-images.githubusercontent.com/48377225/212224634-23778374-08ed-4a14-9535-40b1ba8cf9df.png)
 
 - LoggedIn Page
-![loggedin page](screenshots/loggedinpage.png)
+![logged in page](https://user-images.githubusercontent.com/48377225/212224649-1f4e6ed9-db8d-400e-9181-566913b044b1.png)
 
 - One to One Chat 
-![one to one chat](screenshots/onetoonechat.png)
+![one to one chat](https://user-images.githubusercontent.com/48377225/212224665-b35a5fcd-9029-4aed-ba91-b86e45a94062.png)
 
 - Group Chat
-![group chat](screenshots/groupchat.png)
+![group chat](https://user-images.githubusercontent.com/48377225/212224730-df9bdbe1-4c02-4c0d-90bf-943f2bd85f1e.png)
 
 - Add/remove user, Leave group 
-![group chat](screenshots/add-remove-leave-group.png)
+![add remove leave group](https://user-images.githubusercontent.com/48377225/212224817-3969f03a-5455-4231-97d9-8d07fb99464e.png)
 
 - Search User
-![search user](screenshots/searchuser.png)
+![search user](https://user-images.githubusercontent.com/48377225/212224851-c99285a0-b112-4cbb-8c57-d46fd0a96984.png)
 
 - User Profile
-![user profile](screenshots/userprofile.png)
-
+![user profile](https://user-images.githubusercontent.com/48377225/212224945-08f50d05-adbf-453c-b74b-8795227b09bb.png)
 
 ## More Functionalities
 
