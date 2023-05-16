@@ -1,5 +1,5 @@
 
-# Chat-App (In Progress)
+# Chat-App
 
 - This is a mobile responsive web application project 
 made to help user to chat with there family, friends, relatives etc.
